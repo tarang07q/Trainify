@@ -1,5 +1,5 @@
 # Trainify
-=======
+---
 
 A comprehensive workout tracking application built with React, TypeScript, and Tailwind CSS.
 
