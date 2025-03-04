@@ -48,7 +48,26 @@ yarn dev
   - main.tsx # Application entry point
 ## 📸 Project Screenshots
 
+## Home Page
 ![image](https://github.com/user-attachments/assets/8b0061fc-2bed-465e-9cc6-b35503dc4fdc)
+## Home Dashboard
+![image](https://github.com/user-attachments/assets/166be45f-1444-4f70-bf80-60b91b955db2)
+![image](https://github.com/user-attachments/assets/b98ae238-92af-4c93-a7fb-c9e561cdf68e)
+![image](https://github.com/user-attachments/assets/3ff0217d-0efe-4621-9e61-63535239d282)
+
+## Details of each body part can be retrieved 
+![image](https://github.com/user-attachments/assets/6753cf60-e112-4153-8a56-dd891b6df01b)
+
+## Body part specific exercises 
+![image](https://github.com/user-attachments/assets/26e57cdf-8ab1-4afb-be2f-c39bb55effd4)
+
+## Adding a Workout 
+![image](https://github.com/user-attachments/assets/e7f6242c-40ff-4e37-9193-437c365e43a5)
+
+## Track these Workouts from my workout page
+1. You have the option to add a workout.
+2. You have the option to edit that workout and delete it based upon your activity.
+![image](https://github.com/user-attachments/assets/48818694-b9de-4b9b-a8c6-33ac2a16da2f)
 
 ## 📖 Usage
 1. 🔑 Sign Up/Login: Create an account or login to access the dashboard
